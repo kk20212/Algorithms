@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Josh\\OneDrive - HKUST Connect\\Online Learning\\Algorithms\\Code\\algs4.jar"
+    ]
+}
